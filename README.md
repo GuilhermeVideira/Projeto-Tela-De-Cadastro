@@ -10,4 +10,4 @@ No meu desenvolvimento da atividade, solicitei dados como nome, sobrenome, email
  
  #
 
-https://github.com/GuilhermeVideira/Projeto-Tela-De-Cadastro/blob/main/Readme/ImagemDoCadastro.png?raw=true
+ <img align="center" alt="HTML" height="200" width="200" src="https://github.com/GuilhermeVideira/Projeto-Tela-De-Cadastro/blob/main/Readme/ImagemDoCadastro.png?raw=true">
